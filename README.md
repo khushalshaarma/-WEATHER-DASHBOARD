@@ -39,3 +39,7 @@ Overall, the Weather App is a beautiful blend of functionality and aesthetic des
 and thoughtful UI/UX can transform a basic utility into a delightful web experience. Whether used as a beginner project, a portfolio piece, or a foundation for more complex applications, this app 
 is a great example of clean coding, creative styling, and API integration in action.
 
+# OUTPUT #
+
+<img width="1265" height="845" alt="Image" src="https://github.com/user-attachments/assets/18259a49-06d0-42da-96ee-5c7507303e81" />
+
